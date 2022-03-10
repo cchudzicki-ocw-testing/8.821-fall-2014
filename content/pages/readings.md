@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 355b1ce8-1567-4d76-bacd-0ade78eacb4b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 There is no required textbook, but there are several suggested books and literature reviews. {{% resource_link 725a6055-78d0-a6f7-9969-b3af54e85732 "Lecture Notes" %}} are available for each lecture.

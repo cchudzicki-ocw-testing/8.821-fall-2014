@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 0287ebf6-a68d-7bd9-9554-33f603873ccb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The course grade based on 5 Problem Sets which are due every two weeks and a final project (described in the {{% resource_link 711390b2-73dd-4ef1-3e01-d7b44309fa3f "Syllabus" %}} section).

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pset1.dvi
 uid: 34913a16-c274-9aec-4647-cd21c9975d2e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

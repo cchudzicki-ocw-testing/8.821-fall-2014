@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps5.dvi
 uid: 9311b0f4-f41c-da1b-a0ce-91c8d962b1ff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

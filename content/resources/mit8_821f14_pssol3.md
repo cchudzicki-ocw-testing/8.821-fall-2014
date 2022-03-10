@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps3soln.dvi
 uid: d1bd5bb4-f2af-5b47-2e16-a2598d820cb5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

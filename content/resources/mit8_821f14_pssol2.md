@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT8_821F14_pssol2.pdf
 uid: 3951be2f-7e71-16a9-4022-3cc1309c2f00
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

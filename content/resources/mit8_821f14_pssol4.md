@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps4sol.dvi
 uid: c3d6fb7d-30d2-f505-0e58-db549dfcbae9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
