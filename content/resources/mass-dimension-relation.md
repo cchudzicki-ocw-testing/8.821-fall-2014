@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Mass-dimension Relation'
 uid: 8150ca7b-c208-857b-c4cf-0cbf6e65d61e
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu goes deeper into the matching of spectrum of the two sides of the duality, how the mass of a field in AdS spacetime is related to the scaling dimension of the corresponding operator in the boundary theory.
 
 **Instructor:** Hong Liu
+

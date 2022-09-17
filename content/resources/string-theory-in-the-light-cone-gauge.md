@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: String Theory in the Light-Cone Gauge'
 uid: bbc0c8bc-7c65-c495-8800-5ffd962945d4
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first finishes discussing class string dynamics in the light-cone gauge, and then proceeds to quantize the theory in the light-cone gauge.
 
 **Instructor:** Hong Liu
+

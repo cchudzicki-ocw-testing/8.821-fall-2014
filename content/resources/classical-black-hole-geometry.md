@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Classical Black Hole Geometry'
 uid: 376cad9e-aea4-774b-640d-a4573dafb037
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first discusses important scales in classical and quantum gravity, and then reviews the spacetime geometry of a black hole.
 
 **Instructor:** Hong Liu
+

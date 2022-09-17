@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to several suggested books
+  and literature reviews.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

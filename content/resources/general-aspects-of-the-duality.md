@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: General Aspects of the Duality'
 uid: 2e0350ed-bf53-bfd0-d7ee-10fca24bb8ea
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** This lecture begins Part 3 of the course: Duality Toolbox. In this lecture, Prof. Liu discusses general aspects of the duality, including the IR / UV connection and matching of symmetries, parameters and spectrum between two sides of the duality.
 
 **Instructor:** Hong Liu
+

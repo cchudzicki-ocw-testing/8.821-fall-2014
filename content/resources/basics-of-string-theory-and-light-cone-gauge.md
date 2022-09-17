@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Basics of String Theory and Light-cone Gauge'
 uid: 0289440a-e714-5f6b-8a80-166394d74b7a
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first introduces general setup of string theory, including various forms of the string action and symmetries of the action. He then solves classical string dynamics in the light-cone gauge.
 
 **Instructor:** Hong Liu
+

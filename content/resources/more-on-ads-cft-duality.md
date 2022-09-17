@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: More on AdS / CFT Duality'
 uid: cafab34d-c908-d893-bec3-9549eaa66296
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu further explains two sides of the AdS / CFT duality, including a brief overview of string theory and gravity in AdS spacetime.
 
 **Instructor:** Hong Liu
+

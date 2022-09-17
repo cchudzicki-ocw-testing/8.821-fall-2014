@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Duality at a Finite Temperature and Finite Chemical Potential'
 uid: b803ce03-4290-80a8-2107-fc336aa067aa
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first discusses an important prediction of the duality for a boundary field theory at a finite temperature: Hawking-page transition, i.e. a finite temperature boundary system should exhibit a first order phase transition as the temperature is raised in the large N limit. Near the end, he briefly discusses how the duality works if the boundary system has a finite chemical potential.
 
 **Instructor:** Hong Liu
+

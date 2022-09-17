@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Physics of D-branes, Part III'
 uid: 5034e67e-16bb-1549-3407-b5c7feda6a7d
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu continues discussion of physics of D-branes, including an overview of different types of D-branes in type II super string theory, and then description of D-branes as in terms of spacetime geometries.
 
 **Instructor:** Hong Liu
+

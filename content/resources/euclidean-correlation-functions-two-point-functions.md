@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Euclidean Correlation Functions: Two-point Functions'
 uid: cd1a3a95-4639-930c-343e-a13961519810
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu first motivates a prescription for obtaining Euclidean correlation functions of the boundary theory from bulk gravity. He then discusses in details the computation of two-point functions as an illustration of how the prescription works.
 
 **Instructor:** Hong Liu
+

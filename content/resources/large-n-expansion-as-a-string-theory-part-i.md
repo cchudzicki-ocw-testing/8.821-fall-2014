@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Large-N Expansion as a String Theory, Part I'
 uid: fe956b01-397d-9c97-b94c-4c641796248c
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Liu connects the topological expansion of a matrix field theory in 1 / N to the perturbative expansion of a string theory. The structure of perturbative expansion of a string theory is explained from first principle.
 
 **Instructor:** Hong Liu
+
